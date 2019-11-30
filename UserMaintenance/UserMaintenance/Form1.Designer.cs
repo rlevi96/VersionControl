@@ -68,9 +68,7 @@
             this.txtLastName.Location = new System.Drawing.Point(454, 18);
             this.txtLastName.Name = "txtLastName";
             this.txtLastName.Size = new System.Drawing.Size(223, 22);
-            this.txtLastName.TabIndex = 3;
-            this.txtLastName.TextChanged += new System.EventHandler(this.txtLastName_TextChanged);
-            // 
+            this.txtLastName.TabIndex = 3;            // 
             // txtFirstName
             // 
             this.txtFirstName.Location = new System.Drawing.Point(454, 64);

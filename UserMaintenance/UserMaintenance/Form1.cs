@@ -36,10 +36,5 @@ namespace UserMaintenance
             };
             users.Add(u);
         }
-
-        private void txtLastName_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
